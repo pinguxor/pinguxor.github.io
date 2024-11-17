@@ -1,2 +1,2 @@
-# pinguxor.github.io
+# pinguaet.github.io
 A Static Page
